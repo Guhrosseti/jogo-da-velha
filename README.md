@@ -11,7 +11,7 @@ Este é um projeto de um Jogo da Velha desenvolvido em JavaScript, HTML e CSS. O
 
 ## Como Jogar
 
-1. Abra o arquivo `index.html` em um navegador web.
+1. Abra o link: https://jogo-da-velha-guhrosseti.vercel.app/
 2. A cada turno, clique na posição desejada no tabuleiro para fazer sua jogada.
 3. O jogo alternará automaticamente entre os jogadores, atualizando o tabuleiro e verificando o resultado após cada jogada.
 4. Ao final de cada partida, uma mensagem será exibida com o resultado (vitória, empate ou derrota).
