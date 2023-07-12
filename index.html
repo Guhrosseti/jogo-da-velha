@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <title>Jogo da Velha</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <h1>Jogo da Velha</h1>
+    <div class="board" id="board">
+        <div class="cell" data-index="0"></div>
+        <div class="cell" data-index="1"></div>
+        <div class="cell" data-index="2"></div>
+        <div class="cell" data-index="3"></div>
+        <div class="cell" data-index="4"></div>
+        <div class="cell" data-index="5"></div>
+        <div class="cell" data-index="6"></div>
+        <div class="cell" data-index="7"></div>
+        <div class="cell" data-index="8"></div>
+    </div>
+    <div id="message"></div>
+    <div id="score">
+        <h2>Placar</h2>
+        <div class="scoreboard">
+            <p class="scoreboard_player">Você</p>
+            <p class="scoreboard_machine">Eu</p>
+        </div>
+        <div class="scoreboard">
+            <span class="scoreboard_score" id="playerScore">0</span>
+            <span class="scoreboard_score" id="machineScore">0</span>
+          </div>
+    </div>
+    <button id="newGame">Nova partida</button>
+    <button id="resetScore">Reiniciar Placar</button>
+
+    <script src="script.js"></script>
+</body>
+</html>
