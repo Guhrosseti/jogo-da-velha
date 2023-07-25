@@ -30,7 +30,7 @@ Contribuições e sugestões são bem-vindas! Sinta-se à vontade para abrir uma
 
 ## Autor:
 
-### Gustavo Rosseti.
+### Gustavo Rosseti
 
 ### Linkedin: https://www.linkedin.com/in/gustavorosseti
 
